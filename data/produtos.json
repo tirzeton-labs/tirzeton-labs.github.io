@@ -1,178 +1,273 @@
 {
     "categorias": [
+        "Tirzepatida",
         "Performance esportiva.",
-        "TIRZEPATIDA",
-        "SERINGAS"
+        "Seringas"
     ],
     "produtos": [
         {
-            "id": "t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas-mogn4lu6",
-            "nome": "T.G. 15 Tirzepatida 15 mg/0,5 mL CAIXA COM 4 AMPOLAS",
-            "categoria": "TIRZEPATIDA",
+            "id": "t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas",
+            "nome": "T.G. 15 Tirzepatida 15 mg/0,5 mL - Caixa com 4 Ampolas",
+            "categoria": "Tirzepatida",
             "medida": "caixa",
             "preco": 1250,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
-            "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.\nAção: Retarda o esvaziamento gástrico, melhora a sensibilidade à insulina e reduz a ingestão calórica ao aumentar a sensação de saciedade.\nEficácia (Perda de Peso): Estudos (Surmount-1) mostram que a tirzepatida pode levar a uma redução significativa do peso corporal, com estudos indicando perdas de até 20% ou mais em 72 semanas, frequentemente mais expressiva com doses maiores como 12.5mg e 15mg.\nAdministração: É uma injeção subcutânea semanal (1 vez por semana), geralmente aplicada no abdômen, coxa ou parte posterior do braço.\nApresentação: A embalagem, como a do Mounjaro, contém canetas injetáveis com 4 doses (uso mensal).\nEfeitos Colaterais: Os mais comuns incluem náuseas, vômitos, diarreia, constipação, dor abdominal e gases. Estes tendem a ocorrer mais no início do tratamento ou com o aumento da dose.\nRecomendação: A dose de 15mg geralmente não é a inicial; o tratamento começa com 2,5mg e aumenta progressivamente a cada 4 semanas para minimizar efeitos colaterais. O acompanhamento médico é indispensável.",
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.\n\nAção: Retarda o esvaziamento gástrico, melhora a sensibilidade à insulina e reduz a ingestão calórica ao aumentar a sensação de saciedade.\n\nEficácia (Perda de Peso): Estudos (Surmount-1) mostram que a tirzepatida pode levar a uma redução significativa do peso corporal, com estudos indicando perdas de até 20% ou mais em 72 semanas, frequentemente mais expressiva com doses maiores como 12,5mg e 15mg.\n\nAdministração: É uma injeção subcutânea semanal (1 vez por semana), geralmente aplicada no abdômen, coxa ou parte posterior do braço.\n\nApresentação: A embalagem contém canetas injetáveis com 4 doses (uso mensal).\n\nEfeitos Colaterais: Os mais comuns incluem náuseas, vômitos, diarreia, constipação, dor abdominal e gases. Estes tendem a ocorrer mais no início do tratamento ou com o aumento da dose.\n\nRecomendação: A dose de 15mg geralmente não é a inicial; o tratamento começa com 2,5mg e aumenta progressivamente a cada 4 semanas para minimizar efeitos colaterais. O acompanhamento médico é indispensável.",
             "imagens": [
-                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas-mogn4lu6/foto-1.jpg",
-                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas-mogn4lu6/foto-2.jpg",
-                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas-mogn4lu6/foto-3.jpg",
-                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas-mogn4lu6/foto-4.jpg"
+                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-1.jpg",
+                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-2.jpg",
+                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-3.jpg",
+                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-4.jpg"
             ],
             "ativo": true
         },
         {
-            "id": "testenat-enantato-de-testosterona-250mg-10ml-landergold-moq7s4lg",
-            "nome": "Testenat Enantato de Testosterona 250mg/10ml | LANDERGOLD",
-            "categoria": "Performance esportiva.",
-            "medida": "unidade",
-            "preco": 249,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
-            "descricao": "ENTREGAS PARA FORA DO ESTADO DE SÃO PAULO, PRAZO DE ATÉ 15 DIAS ÚTEIS.\n\nA testosterona, principal andrógeno sexual, é responsável pelo desenvolvimento e manutenção das características sexuais secundárias masculinas, exercendo importante ação anabólica.\n\nEsta última propriedade contribui, sobretudo, para a aceleração do processo de crescimento na puberdade, estimulando o crescimento ósseo e modulando o processo de soldagem da epífise dos ossos longos.\n\nNo homem normal, estimula a atividade da enzima RNA polimerase e a síntese de RNA específico, resultando no aumento da produção de proteínas.\n\nA testosterona estimula a produção de eritrócitos porque favorece a síntese de fatores estimuladores da eritropoiese.\n\nIndicações:\n\nHipogonadismo primário congênito ou adquirido: Quando há insuficiência testicular devido a criptorquidismo, torção bilateral, síndrome de ausência testicular ou orquiectomia.\n\nHipogonadismo hipogonadotrófico: Quando há deficiência congênita ou adquirida de LH-RH (hormônio liberador do hormônio luteinizante) ou hipotálamo-hipofisário devido a cirurgia, trauma, tumores ou radiação.\n\nPuberdade atrasada: quando há um padrão familiar de puberdade atrasada, não secundário a um distúrbio patológico, em pacientes que não responderam à terapia psicológica de suporte.\n\nClimatério masculino: Como terapia repositora na impotência ou outros sintomas associados a este distúrbio, quando a etiologia é devida a uma deficiência androgênica verificada.\n\nDesnutrição grave.\n\nAnemias específicas: anemia aplástica mielofibrosa, mielosclerose, metaplasia mielóide agnogênica, anemias hipoplásicas causadas por malignidade ou drogas mielotóxicas.\n\nCarcinoma inoperável da mama: Como tratamento paliativo do câncer de mama metastático secundário e terciário em mulheres com tumores receptivos a hormônios ou naquelas que demonstraram uma resposta anterior à terapia hormonal.",
-            "imagens": [
-                "assets/produtos/testenat-enantato-de-testosterona-250mg-10ml-landergold-moq7s4lg/foto-1.jpg"
-            ],
-            "ativo": true
-        },
-        {
-            "id": "combo-com-4-caixas-de-t-g-15-tirzepatida-15-mg-0-5-ml-moqczihk",
-            "nome": "COMBO COM 4 CAIXAS DE T.G. 15 Tirzepatida 15 mg/0,5 mL",
-            "categoria": "TIRZEPATIDA",
+            "id": "combo-4-caixas-t-g-15-tirzepatida",
+            "nome": "Combo com 4 Caixas de T.G. 15 Tirzepatida 15 mg/0,5 mL",
+            "categoria": "Tirzepatida",
             "medida": "unidade",
             "preco": 4000,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
-            "descricao": "ENTREGAS PARA FORA DO ESTADO DE SÃO PAULO, PRAZO DE ATÉ 15 DIAS ÚTEIS.\n\nCOMBO DE 4 CAIXAS POR 4 MIL REAIS, EQUIVALENTE A MIL REAIS POR CAIXA. + FRETE SOB CONSULTA",
+            "resumo": "Economia comprando o combo! Frete sob consulta.",
+            "descricao": "Entregas para fora do estado de São Paulo: prazo de até 15 dias úteis.\n\nCombo de 4 caixas por 4 mil reais, equivalente a mil reais por caixa. + Frete sob consulta.",
             "imagens": [
-                "assets/produtos/combo-com-4-caixas-de-t-g-15-tirzepatida-15-mg-0-5-ml-moqczihk/foto-1.jpg",
-                "assets/produtos/combo-com-4-caixas-de-t-g-15-tirzepatida-15-mg-0-5-ml-moqczihk/foto-2.jpg"
+                "assets/produtos/combo-4-caixas-t-g-15-tirzepatida/foto-1.jpg",
+                "assets/produtos/combo-4-caixas-t-g-15-tirzepatida/foto-2.jpg"
             ],
             "ativo": true
         },
         {
-            "id": "masteron-100mg-10ml-moqdtbuf",
-            "nome": "Masteron 100mg 10ml | LANDERGOLD",
-            "categoria": "Performance esportiva.",
-            "medida": "unidade",
-            "preco": 249,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
-            "descricao": "ENTREGAS PARA FORA DO ESTADO DE SÃO PAULO, PRAZO DE ATÉ 15 DIAS ÚTEIS.",
-            "imagens": [
-                "assets/produtos/masteron-100mg-10ml-moqdtbuf/foto-1.jpg",
-                "assets/produtos/masteron-100mg-10ml-moqdtbuf/foto-2.jpg",
-                "assets/produtos/masteron-100mg-10ml-moqdtbuf/foto-3.jpg",
-                "assets/produtos/masteron-100mg-10ml-moqdtbuf/foto-4.jpg"
-            ],
-            "ativo": true
-        },
-        {
-            "id": "durateston-plus-250mg-10ml-lander-gold-moqdykl3",
-            "nome": "Durateston Plus 250mg 10ml | LANDER GOLD",
-            "categoria": "Performance esportiva.",
-            "medida": "unidade",
-            "preco": 249,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
-            "descricao": "ENTREGAS PARA FORA DO ESTADO DE SÃO PAULO, PRAZO DE ATÉ 15 DIAS ÚTEIS.",
-            "imagens": [
-                "assets/produtos/durateston-plus-250mg-10ml-lander-gold-moqdykl3/foto-1.jpg",
-                "assets/produtos/durateston-plus-250mg-10ml-lander-gold-moqdykl3/foto-2.jpg",
-                "assets/produtos/durateston-plus-250mg-10ml-lander-gold-moqdykl3/foto-3.jpg",
-                "assets/produtos/durateston-plus-250mg-10ml-lander-gold-moqdykl3/foto-4.jpg"
-            ],
-            "ativo": true
-        },
-        {
-            "id": "trembolona-enantato-200mg-10ml-landergold-moqe6ibs",
-            "nome": "Trembolona Enantato 200mg 10ml | LANDERGOLD",
-            "categoria": "Performance esportiva.",
-            "medida": "unidade",
-            "preco": 249,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
-            "descricao": "ENTREGAS PARA FORA DO ESTADO DE SÃO PAULO, PRAZO DE ATÉ 15 DIAS ÚTEIS.",
-            "imagens": [
-                "assets/produtos/trembolona-enantato-200mg-10ml-landergold-moqe6ibs/foto-1.jpg",
-                "assets/produtos/trembolona-enantato-200mg-10ml-landergold-moqe6ibs/foto-2.jpg",
-                "assets/produtos/trembolona-enantato-200mg-10ml-landergold-moqe6ibs/foto-3.jpg",
-                "assets/produtos/trembolona-enantato-200mg-10ml-landergold-moqe6ibs/foto-4.jpg"
-            ],
-            "ativo": true
-        },
-        {
-            "id": "lipoland-60mg-4-ampolas-mp4u4wt7",
-            "nome": "LIPOLAND 60MG 4 AMPOLAS",
-            "categoria": "TIRZEPATIDA",
+            "id": "lipoland-60mg-4-ampolas",
+            "nome": "Lipoland 60mg - 4 Ampolas",
+            "categoria": "Tirzepatida",
             "medida": "unidade",
             "preco": 1349,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
-                "assets/produtos/lipoland-60mg-4-ampolas-mp4u4wt7/foto-1.jpg",
-                "assets/produtos/lipoland-60mg-4-ampolas-mp4u4wt7/foto-2.jpg",
-                "assets/produtos/lipoland-60mg-4-ampolas-mp4u4wt7/foto-3.jpg",
-                "assets/produtos/lipoland-60mg-4-ampolas-mp4u4wt7/foto-4.jpg"
+                "assets/produtos/lipoland-60mg-4-ampolas/foto-1.jpg",
+                "assets/produtos/lipoland-60mg-4-ampolas/foto-2.jpg",
+                "assets/produtos/lipoland-60mg-4-ampolas/foto-3.jpg",
+                "assets/produtos/lipoland-60mg-4-ampolas/foto-4.jpg"
             ],
             "ativo": true
         },
         {
-            "id": "lipoless-4-ampolas-15mg-mp4u7a6a",
-            "nome": "LIPOLESS 4 AMPOLAS 15mg",
-            "categoria": "TIRZEPATIDA",
+            "id": "lipoless-4-ampolas-15mg",
+            "nome": "Lipoless 4 Ampolas 15mg",
+            "categoria": "Tirzepatida",
             "medida": "unidade",
             "preco": 1250,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
-                "assets/produtos/lipoless-4-ampolas-15mg-mp4u7a6a/foto-1.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg-mp4u7a6a/foto-2.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg-mp4u7a6a/foto-3.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg-mp4u7a6a/foto-4.jpg"
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-1.jpg",
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-2.jpg",
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-3.jpg",
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-4.jpg"
             ],
             "ativo": true
         },
         {
-            "id": "lipoless-15mg-md-60mg-2ml-mp4ueg2q",
-            "nome": "LIPOLESS 15MG MD (60MG-2ML)",
-            "categoria": "TIRZEPATIDA",
+            "id": "lipoless-15mg-md-60mg-2ml",
+            "nome": "Lipoless 15mg MD (60mg/2mL)",
+            "categoria": "Tirzepatida",
             "medida": "unidade",
             "preco": 1250,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
-                "assets/produtos/lipoless-15mg-md-60mg-2ml-mp4ueg2q/foto-1.jpg",
-                "assets/produtos/lipoless-15mg-md-60mg-2ml-mp4ueg2q/foto-2.jpg",
-                "assets/produtos/lipoless-15mg-md-60mg-2ml-mp4ueg2q/foto-3.jpg",
-                "assets/produtos/lipoless-15mg-md-60mg-2ml-mp4ueg2q/foto-4.jpg"
+                "assets/produtos/lipoless-15mg-md-60mg-2ml/foto-1.jpg",
+                "assets/produtos/lipoless-15mg-md-60mg-2ml/foto-2.jpg",
+                "assets/produtos/lipoless-15mg-md-60mg-2ml/foto-3.jpg",
+                "assets/produtos/lipoless-15mg-md-60mg-2ml/foto-4.jpg"
             ],
             "ativo": true
         },
         {
-            "id": "lipoland-md-15mg-60mg-2ml-mp4uhvrd",
-            "nome": "LIPOLAND MD 15MG (60MG/2ML)",
-            "categoria": "TIRZEPATIDA",
+            "id": "lipoland-md-15mg-60mg-2ml",
+            "nome": "Lipoland MD 15mg (60mg/2mL)",
+            "categoria": "Tirzepatida",
             "medida": "unidade",
             "preco": 1250,
-            "resumo": "Crédito em até 12x + taxa. FRETE SOB CONSULTA",
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
-                "assets/produtos/lipoland-md-15mg-60mg-2ml-mp4uhvrd/foto-1.jpg",
-                "assets/produtos/lipoland-md-15mg-60mg-2ml-mp4uhvrd/foto-2.jpg",
-                "assets/produtos/lipoland-md-15mg-60mg-2ml-mp4uhvrd/foto-3.jpg",
-                "assets/produtos/lipoland-md-15mg-60mg-2ml-mp4uhvrd/foto-4.jpg"
+                "assets/produtos/lipoland-md-15mg-60mg-2ml/foto-1.jpg",
+                "assets/produtos/lipoland-md-15mg-60mg-2ml/foto-2.jpg",
+                "assets/produtos/lipoland-md-15mg-60mg-2ml/foto-3.jpg",
+                "assets/produtos/lipoland-md-15mg-60mg-2ml/foto-4.jpg"
             ],
             "ativo": true
         },
         {
-            "id": "kit-20-seringa-insulina-1ml-agulha-fixa-8x0-30mm-mp6bbq2k",
-            "nome": "KIT 20 Seringa Insulina 1ml Agulha Fixa 8x0,30mm",
-            "categoria": "SERINGAS",
+            "id": "kit-20-seringas-insulina-1ml",
+            "nome": "Kit 20 Seringas de Insulina 1ml com Agulha Fixa 8x0,30mm",
+            "categoria": "Seringas",
             "medida": "unidade",
             "preco": 44.9,
-            "resumo": "FRETE SOB CONSULTA",
-            "descricao": "SERINGA DE INSULINA 1ML COM AGULHA FIXA 8MM X 0,30MM (30G) VENPER - PACOTE COM 10 UNIDADES\n\nPRECISÃO, CONFORTO E ZERO DESPERDÍCIO DE MEDICAÇÃO\n\nSeja para aplicação diária de insulina ou para procedimentos estéticos (como Toxina Botulínica), cada gota conta. Seringas comuns com agulha removível acumulam líquido no bico, gerando desperdício de medicamentos caros.\n\nA Seringa Venper com Agulha Fixa resolve esse problema. Por ser integrada ao corpo da seringa, ela oferece Espaço Morto Zero, garantindo que 100% da dose aspirada seja aplicada no paciente.\n\nAGULHA ULTRA FINA E CURTA (8MM x 0,30MM)\n\nO tamanho 8mm é a tendência mundial para aplicações subcutâneas. É curta o suficiente para não atingir o músculo (o que causaria dor e absorção errada da insulina) e ideal para pacientes magros ou crianças. Com calibre 30G (0,30mm), ela é extremamente fina, proporcionando uma punção praticamente indolor e com menos hematomas.",
+            "resumo": "Frete sob consulta.",
+            "descricao": "Seringa de insulina 1ml com agulha fixa 8mm x 0,30mm (30G) - Pacote com 20 unidades.\n\nPrecisão, conforto e zero desperdício de medicação.\n\nSeja para aplicação diária de insulina ou para procedimentos estéticos (como toxina botulínica), cada gota conta. Seringas comuns com agulha removível acumulam líquido no bico, gerando desperdício de medicamentos caros.\n\nA Seringa com agulha fixa resolve esse problema. Por ser integrada ao corpo da seringa, ela oferece Espaço Morto Zero, garantindo que 100% da dose aspirada seja aplicada.\n\nAgulha ultra fina e curta (8mm x 0,30mm): O tamanho 8mm é a tendência mundial para aplicações subcutâneas. É curta o suficiente para não atingir o músculo (o que causaria dor e absorção errada) e ideal para pacientes magros ou crianças. Com calibre 30G (0,30mm), ela é extremamente fina, proporcionando uma punção praticamente indolor.",
             "imagens": [
-                "assets/produtos/kit-20-seringa-insulina-1ml-agulha-fixa-8x0-30mm-mp6bbq2k/foto-1.jpg",
-                "assets/produtos/kit-20-seringa-insulina-1ml-agulha-fixa-8x0-30mm-mp6bbq2k/foto-2.jpg",
-                "assets/produtos/kit-20-seringa-insulina-1ml-agulha-fixa-8x0-30mm-mp6bbq2k/foto-3.jpg",
-                "assets/produtos/kit-20-seringa-insulina-1ml-agulha-fixa-8x0-30mm-mp6bbq2k/foto-4.jpg"
+                "assets/produtos/kit-20-seringas-insulina-1ml/foto-1.jpg",
+                "assets/produtos/kit-20-seringas-insulina-1ml/foto-2.jpg",
+                "assets/produtos/kit-20-seringas-insulina-1ml/foto-3.jpg",
+                "assets/produtos/kit-20-seringas-insulina-1ml/foto-4.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "testenat-gold-10ml",
+            "nome": "Testenat Gold 10ml (Enantato de Testosterona 250mg/mL)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 255.48,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Enantato de Testosterona é o éster de testosterona mais utilizado no mundo, reconhecido por sua eficácia e perfil de ação prolongada.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Contém enantato de testosterona 250 mg/mL. Administração intramuscular profunda. Conservar entre 15°C e 30°C.\n\nA testosterona, principal andrógeno sexual, é responsável pelo desenvolvimento e manutenção das características sexuais secundárias masculinas, exercendo importante ação anabólica.\n\nIndicações:\n\n- Terapia de reposição hormonal para homens com hipogonadismo\n- Aumento da massa muscular magra e força\n- Melhora da densidade óssea e libido\n- Aumento da produção de eritrócitos\n- Melhora do bem-estar geral e níveis de energia",
+            "imagens": [
+                "assets/produtos/testenat-gold-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "drostanolona-propionato-masteron-10ml",
+            "nome": "Drostanolona Propionato 100mg 10ml (Masteron)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 254.51,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Drostanolona Propionato, conhecida comercialmente como Masteron, é um esteroide anabolizante derivado do di-hidrotestosterona (DHT).\n\nCaracteriza-se por seus fortes efeitos androgênicos e moderados efeitos anabólicos, sendo amplamente utilizada por atletas durante períodos de cutting (definição muscular).\n\nPor ser derivado do DHT, não aromatiza (não converte em estrogênio), o que significa que não causa retenção hídrica ou ginecomastia.\n\nÉ conhecida por proporcionar um aspecto muscular mais denso, duro e vascularizado, além de auxiliar na queima de gordura.\n\nIndicações:\n\n- Tratamento paliativo do carcinoma mamário metastático em mulheres\n- Cutting e definição muscular em atletas de alto rendimento\n- Melhora da densidade e dureza muscular\n- Redução de gordura corporal e aumento da vascularização",
+            "imagens": [
+                "assets/produtos/drostanolona-masteron/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "durateston-gold-10ml",
+            "nome": "Durateston Gold 250mg 10ml (Mistura de 4 Ésteres de Testosterona)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 275.33,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Durateston Gold é uma combinação de quatro ésteres de testosterona de ação rápida, intermediária e prolongada, proporcionando níveis sanguíneos estáveis e constantes do hormônio.\n\nComposição:\n- Testosterona Propionato 30mg (ação rápida)\n- Testosterona Fenilpropionato 60mg (ação intermediária)\n- Testosterona Isocaproato 60mg (ação intermediária)\n- Testosterona Decanoato 100mg (ação prolongada)\n\nTotal: 250mg/mL de testosterona.\n\nEsta combinação única elimina a necessidade de aplicações frequentes, mantendo níveis hormonais equilibrados.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Administração intramuscular. Conservar entre 15°C e 30°C.\n\nIndicações:\n\n- Terapia de reposição hormonal para homens com hipogonadismo\n- Aumento da massa muscular magra e força\n- Melhora da densidade óssea\n- Aumento da libido e desempenho sexual\n- Melhora do bem-estar geral e níveis de energia",
+            "imagens": [
+                "assets/produtos/durateston-gold/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "trembolona-enantato-200mg-10ml",
+            "nome": "Trembolona Enantato 200mg 10ml",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 270.71,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Trembolona Enantato é um potente esteroide anabolizante derivado da nandrolona, reconhecida por sua alta capacidade de promover ganhos significativos de massa muscular magra e força.\n\nPossui ação anabólica extremamente potente (3x mais que a testosterona) com moderada atividade androgênica. Não aromatiza (não converte em estrogênio), evitando problemas como retenção hídrica e ginecomastia.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Contém enantato de trembolona 200 mg/mL. Administração intramuscular. Conservar entre 15°C e 30°C.\n\nIndicações:\n\n- Aumento significativo de massa muscular magra\n- Melhora da força e recuperação muscular\n- Estímulo da síntese proteica e retenção de nitrogênio\n- Aumento da produção de IGF-1\n- Otimização do rendimento esportivo",
+            "imagens": [
+                "assets/produtos/trembolona-enantato/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "clembuterol-50-comprimidos",
+            "nome": "Clembuterol 50 Comprimidos 0,04mg",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 238.31,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Clembuterol é um agonista beta-2 adrenérgico, originalmente desenvolvido como broncodilatador para tratamento de asma, mas amplamente reconhecido por seus potentes efeitos termogênicos e de queima de gordura.\n\nAtua estimulando o sistema nervoso simpático, aumentando a taxa metabólica basal e promovendo a lipólise (quebra de gordura). Além disso, possui efeito anticatabólico, ajudando a preservar a massa muscular durante períodos de déficit calórico.\n\nFrasco opaco com 50 comprimidos de 0,04mg de clembuterol cada um. Conservar entre 15°C e 30°C em lugar seco.\n\nIndicações:\n\n- Auxílio na perda de gordura corporal\n- Preservação da massa muscular durante o cutting\n- Aumento da termogênese e metabolismo\n- Melhora da capacidade respiratória (broncodilatação)",
+            "imagens": [
+                "assets/produtos/clembuterol-50-comp/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "decaland-gold-200mg-10ml",
+            "nome": "Decaland Gold 200mg 10ml (Decanoato de Nandrolona)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 268.11,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Decanoato de Nandrolona é um dos esteroides anabolizantes mais utilizados no mundo. Possui um poderoso efeito anabólico com baixa atividade androgênica, sendo derivado da testosterona com modificações que prolongam sua ação e reduzem efeitos colaterais androgênicos.\n\nÉ altamente eficaz para o ganho de massa muscular magra, recuperação articular e aumento da produção de glóbulos vermelhos. Caracteriza-se por proporcionar ganhos de qualidade, com baixa retenção hídrica quando comparado a outros compostos.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Contém decanoato de nandrolona 200 mg/mL. Administração intramuscular profunda. Liberação prolongada. Conservar entre 15°C e 30°C.\n\nIndicações:\n\n- Ganho de massa muscular magra e progressiva\n- Melhora da recuperação e saúde articular\n- Tratamento da osteoporose e anemia\n- Aumento da síntese proteica e balanço nitrogenado positivo\n- Aceleração da recuperação pós-treino",
+            "imagens": [
+                "assets/produtos/decaland-gold-200mg/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "primobolan-10ml",
+            "nome": "Primobolan 10ml (Metenolona Enantato 100mg/mL)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 391.43,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Metenolona Enantato, conhecida comercialmente como Primobolan Depot, é um esteroide anabolizante derivado do DHT (di-hidrotestosterona).\n\nÉ amplamente reconhecida por seu perfil extremamente seguro e suave, com baixa atividade androgênica e efeitos anabólicos moderados. Não aromatiza (não converte em estrogênio), não causando retenção hídrica ou ginecomastia.\n\nÉ considerada uma das substâncias mais seguras para uso prolongado devido à sua baixa toxicidade hepática e perfil favorável de efeitos colaterais.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Contém metenolona enantato 100 mg/mL. Administração intramuscular. Conservar entre 15°C e 30°C.\n\nIndicações:\n\n- Ganho de massa muscular magra e de qualidade\n- Cutting e definição muscular\n- Preservação da massa muscular em déficit calórico\n- Melhora da qualidade muscular sem retenção hídrica",
+            "imagens": [
+                "assets/produtos/primobolan-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "boldenona-250mg-10ml",
+            "nome": "Boldenona 250mg 10ml (Undecilato de Boldenona)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 254.34,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Boldenona Undecilato é um esteroide anabolizante derivado da testosterona com uma modificação na estrutura que reduz sua atividade androgênica.\n\nPossui ação anabólica moderada e prolongada, sendo conhecida por proporcionar ganhos steady e de qualidade, com baixa retenção hídrica. Aumenta significativamente o apetite e a produção de glóbulos vermelhos, melhorando a oxigenação muscular e a resistência.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Contém undecilato de boldenona 250 mg/mL. Administração intramuscular. Éster de liberação prolongada. Conservar entre 15°C e 30°C.\n\nIndicações:\n\n- Ganho de massa muscular magra e progressiva\n- Aumento da resistência e vascularização\n- Estímulo do apetite e da recuperação muscular\n- Melhora da qualidade muscular com baixa retenção\n- Aumento da produção de eritrócitos",
+            "imagens": [
+                "assets/produtos/boldenona-250mg-10ml/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "fenil-nandrolona-100mg-10ml",
+            "nome": "Fenil Nandrolona 100mg 10ml (Nandrolona Fenilpropionato - NPP)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 261.96,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Nandrolona Fenilpropionato é um esteroide anabolizante derivado da nandrolona com éster de ação rápida, proporcionando resultados mais rápidos que o Decanoato.\n\nPossui poderoso efeito anabólico com moderada atividade androgênica, sendo eficaz para ganho de massa muscular magra e recuperação articular. O éster fenilpropionato permite um início de ação mais rápido (3-5 dias) e menor tempo de detecção.\n\nFrasco com 10 mL de solução oleosa. Contém nandrolona fenilpropionato 100 mg/mL. Administração intramuscular. Éster de ação rápida. Conservar protegido da luz.\n\nIndicações:\n\n- Ganho rápido de massa muscular magra\n- Melhora da recuperação articular e muscular\n- Aumento da síntese proteica\n- Estímulo do apetite e bem-estar geral",
+            "imagens": [
+                "assets/produtos/fenil-nandrolona-100mg/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "trembolona-acetato-100mg-10ml",
+            "nome": "Trembolona Acetato 100mg 10ml",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 307.41,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Trembolona Acetato é um dos esteroides anabolizantes mais potentes disponíveis, derivado da nandrolona com éster de acetato para ação rápida.\n\nPossui atividade anabólica extremamente alta (5x mais que a testosterona) com alta atividade androgênica. Não aromatiza (não converte em estrogênio), sendo segura quanto a retenção hídrica e ginecomastia.\n\nO éster acetato proporciona início de ação rápido (24-48h) e meia-vida curta, permitindo maior controle sobre o ciclo.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Contém acetato de trembolona 100 mg/mL. Administração intramuscular. Éster de ação rápida. Conservar entre 15°C e 30°C.\n\nIndicações:\n\n- Ganho massivo de massa muscular magra e força\n- Definição muscular com vascularização intensa\n- Aumento da potência e explosão muscular\n- Melhora da densidade e dureza muscular",
+            "imagens": [
+                "assets/produtos/trembolona-acetato/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "oxandrolona-10mg-50-comprimidos",
+            "nome": "Oxandrolona 10mg 50 Comprimidos",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 309.6,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Oxandrolona é um esteroide anabolizante oral derivado do DHT (di-hidrotestosterona), reconhecida por seu perfil extremamente seguro e suave.\n\nÉ um dos poucos esteroides orais que não causa hepatotoxicidade significativa, sendo amplamente utilizada tanto em ciclos de cutting quanto de ganho de massa. Não aromatiza (não converte em estrogênio), não causando retenção hídrica ou ginecomastia.\n\nÉ altamente valorizada por atletas por proporcionar ganhos de massa muscular de qualidade, com aspecto seco e definido.\n\nFrasco opaco com 50 comprimidos de 10mg de oxandrolona cada um. Via oral. Conservar entre 15°C e 30°C em lugar seco.\n\nIndicações:\n\n- Ganho de massa muscular magra e de qualidade\n- Cutting e definição muscular\n- Aumento de força sem ganho de peso significativo\n- Melhora da recuperação muscular\n- Preservação da massa muscular em déficit calórico",
+            "imagens": [
+                "assets/produtos/oxandrolona-10mg-50/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "landertroping-gh-100ui",
+            "nome": "Landertroping GH 100UI (Somatropina - Hormônio do Crescimento)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 1758.76,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Somatropina (GH - Hormônio do Crescimento) é um hormônio proteico produzido por tecnologia de DNA recombinante, idêntico ao GH humano endógeno.\n\nO GH é o principal hormônio anabólico do organismo, responsável pelo crescimento celular, regeneração tecidual e metabolismo de gordura.\n\nSeus efeitos incluem aumento da massa muscular magra, redução da gordura corporal, melhora da densidade óssea, rejuvenescimento da pele e melhora da qualidade do sono.\n\nCaixa com 10 frascos de pó liofilizado de 1 mL cada um com 3,70 mg de somatropina (equivalente a 10 UI de rhGH) + 10 ampolas de solvente. Administração intramuscular ou subcutânea. Conservar entre 2°C e 8°C.\n\nIndicações:\n\n- Terapia de reposição hormonal para deficiência de GH\n- Aumento da massa muscular magra e redução da gordura corporal\n- Melhora da recuperação muscular e regeneração tecidual\n- Rejuvenescimento e melhora da qualidade da pele\n- Aumento da densidade óssea e força\n- Melhora da qualidade do sono e bem-estar geral",
+            "imagens": [
+                "assets/produtos/landertroping-gh/foto-1.jpg"
             ],
             "ativo": true
         }
