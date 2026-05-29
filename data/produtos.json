@@ -256,6 +256,123 @@
                 "assets/produtos/landertroping-gh/foto-1.jpg"
             ],
             "ativo": true
+        },
+        {
+            "id": "testo-propionate-100mg-10ml",
+            "nome": "Testo Propionate 100mg 10ml (Propionato de Testosterona)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 236.78,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Propionato de Testosterona é um éster de testosterona de ação rápida, caracterizado por seu início de ação rápido e meia-vida curta.\n\nPor ser um éster de cadeia curta, proporciona maior controle sobre o ciclo e menor retenção hídrica. É amplamente utilizado em ciclos de cutting e definição muscular.\n\nFrasco com 10 mL de solução oleosa. Contém propionato de testosterona 100 mg/mL. Administração intramuscular. Éster de ação rápida.\n\nIndicações:\n\n- Ganho de massa muscular magra\n- Melhora da força e libido\n- Cutting e definição muscular\n- Terapia de reposição hormonal",
+            "imagens": [
+                "assets/produtos/testo-propionate-100mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "androlic-mesterolona",
+            "nome": "Androlic Mesterolona 25mg 20 Comprimidos",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 203.72,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Mesterolona é um esteroide anabolizante oral derivado do DHT (di-hidrotestosterona), conhecida comercialmente como Proviron.\n\nNão aromatiza (não converte em estrogênio) e possui propriedades antiestrogênicas, podendo ser utilizada em conjunto com outros esteroides para minimizar os efeitos colaterais relacionados ao estrogênio.\n\nAumenta a libido, melhora a qualidade da ereção e proporciona um aspecto muscular mais duro e definido.\n\nFrasco com 20 comprimidos de 25mg de mesterolona cada um. Via oral.\n\nIndicações:\n\n- Terapia de reposição hormonal masculina\n- Melhora da libido e função erétil\n- Cutting e definição muscular\n- Redução dos efeitos estrogênicos",
+            "imagens": [
+                "assets/produtos/androlic-mesterolona/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "testenat-enantato-4ml-250mg",
+            "nome": "Testenat Enantato de Testosterona 250mg 4ml",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 179.82,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Enantato de Testosterona é o éster de testosterona mais utilizado no mundo, reconhecido por sua eficácia e perfil de ação prolongada.\n\nApresentação em frasco de 4 mL com 250 mg/mL de enantato de testosterona. Administração intramuscular.\n\nA testosterona é o principal andrógeno sexual, responsável pelo desenvolvimento e manutenção das características sexuais secundárias masculinas.\n\nIndicações:\n\n- Terapia de reposição hormonal\n- Aumento da massa muscular magra\n- Melhora da densidade óssea e libido\n- Aumento dos níveis de energia",
+            "imagens": [
+                "assets/produtos/testenat-enantato-4ml-250mg/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "stanozoland-50mg-30ml",
+            "nome": "Stanozoland Depot 50mg 30ml (Stanozolol Injetável)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 253.86,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Stanozolol é um esteroide anabolizante derivado do DHT (di-hidrotestosterona), amplamente utilizado por atletas em períodos de cutting.\n\nNão aromatiza (não converte em estrogênio), sendo seguro quanto a retenção hídrica e ginecomastia. Proporciona um aspecto muscular duro, seco e vascularizado.\n\nFrasco com 30 mL de solução oleosa. Contém stanozolol 50 mg/mL. Administração intramuscular.\n\nIndicações:\n\n- Cutting e definição muscular\n- Melhora da vascularização\n- Aumento da força sem ganho de peso significativo\n- Melhora da densidade e dureza muscular",
+            "imagens": [
+                "assets/produtos/stanozoland-50mg-30ml/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "oxandrolona-5mg-100-comprimidos",
+            "nome": "Oxandrolona 5mg 100 Comprimidos",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 316.65,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Oxandrolona é um esteroide anabolizante oral derivado do DHT (di-hidrotestosterona), reconhecida por seu perfil extremamente seguro.\n\nÉ um dos poucos esteroides orais que não causa hepatotoxicidade significativa. Não aromatiza, não causando retenção hídrica ou ginecomastia.\n\nFrasco com 100 comprimidos de 5mg de oxandrolona cada um. Via oral.\n\nIndicações:\n\n- Ganho de massa muscular magra\n- Cutting e definição muscular\n- Aumento de força sem ganho de peso significativo\n- Preservação muscular em déficit calórico",
+            "imagens": [
+                "assets/produtos/oxandrolona-5mg-100-comprimidos/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "decaland-5ml-200mg",
+            "nome": "Decaland Depot 5ml 200mg (Decanoato de Nandrolona)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 178.94,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Decanoato de Nandrolona é um dos esteroides anabolizantes mais utilizados, com poderoso efeito anabólico e baixa atividade androgênica.\n\nÉ altamente eficaz para ganho de massa muscular magra, recuperação articular e aumento da produção de glóbulos vermelhos.\n\nFrasco de vidro âmbar com 5 mL de solução oleosa. Contém decanoato de nandrolona 200 mg/mL. Administração intramuscular.\n\nIndicações:\n\n- Ganho de massa muscular magra\n- Melhora da saúde articular\n- Aumento da síntese proteica\n- Aceleração da recuperação pós-treino",
+            "imagens": [
+                "assets/produtos/decaland-5ml-200mg/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "oxitoland-50mg-20-comprimidos",
+            "nome": "Oxitoland 50mg 20 Comprimidos (Oximetolona)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 178.94,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Oximetolona é um potente esteroide anabolizante oral, conhecido por sua alta capacidade de promover ganhos significativos de massa muscular e força.\n\nÉ um dos esteroides orais mais potentes disponíveis, proporcionando aumento rápido de peso corporal, força e volume muscular.\n\nFrasco com 20 comprimidos de 50mg de oximetolona cada um. Via oral.\n\nIndicações:\n\n- Ganho massivo de massa e força muscular\n- Aumento do apetite e recuperação\n- Melhora da produção de eritrócitos\n- Tratamento de anemias e osteoporose",
+            "imagens": [
+                "assets/produtos/oxitoland-50mg-20-comprimidos/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "testoland-3-ampolas-2ml",
+            "nome": "Testoland Depot Cipionato de Testosterona 200mg 3 Ampolas x 2ml",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 171.48,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Cipionato de Testosterona é um éster de testosterona de ação prolongada, similar ao enantato em termos de meia-vida e eficácia.\n\nProporciona níveis estáveis de testosterona com aplicações espaçadas, sendo ideal para terapia de reposição hormonal e ciclos de ganho muscular.\n\nCaixa com 3 ampolas de 2 mL cada. Cada ampola contém cipionato de testosterona 200 mg/mL. Administração intramuscular.\n\nIndicações:\n\n- Terapia de reposição hormonal\n- Aumento da massa muscular e força\n- Melhora da libido e desempenho sexual\n- Aumento dos níveis de energia e bem-estar",
+            "imagens": [
+                "assets/produtos/testoland-3-ampolas-2ml/foto-1.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "methandrostenolona-dianabol",
+            "nome": "Methandrostenolona 10mg 100 Comprimidos (Dianabol)",
+            "categoria": "Performance esportiva.",
+            "medida": "unidade",
+            "preco": 181.53,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Methandrostenolona, conhecida comercialmente como Dianabol, é um dos esteroides anabolizantes orais mais clássicos e populares.\n\nPossui potente ação anabólica e androgênica, proporcionando ganhos rápidos e significativos de massa muscular e força.\n\nFrasco com 100 comprimidos de 10mg de methandrostenolona cada um. Via oral.\n\nIndicações:\n\n- Ganho rápido de massa muscular\n- Aumento significativo de força\n- Melhora da recuperação e síntese proteica\n- Aumento do apetite e bem-estar",
+            "imagens": [
+                "assets/produtos/methandrostenolona-dianabol/foto-1.png"
+            ],
+            "ativo": true
         }
     ]
 }
