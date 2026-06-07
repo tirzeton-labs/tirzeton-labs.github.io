@@ -707,7 +707,7 @@ main { max-width: 1280px; margin: 0 auto; padding: 32px 24px 96px; }
 </main>
 
 <footer class="footer">
-  <p>Tirzeton Labs · Pedidos via WhatsApp <a id="footerWa" href="#">+55 54 99642-7298</a></p>
+  <p>Tirzeton Labs · Pedidos via WhatsApp <a id="footerWa" href="#"></a></p>
 </footer>
 
 <div class="bookmark-banner" id="bookmarkBanner" role="dialog" aria-label="Adicionar à tela inicial">
@@ -1351,6 +1351,11 @@ window.addEventListener("popstate", e => {
   await loadDados();
   renderFilters();
   renderGrid();
+
+    // Footer WhatsApp link
+  const wa = document.getElementById("footerWa");
+  wa.href = "https://wa.me/" + WHATSAPP_NUMERO;
+  wa.textContent = "+55 " + WHATSAPP_NUMERO.slice(2,4) + " " + WHATSAPP_NUMERO.slice(4,8) + "-" + WHATSAPP_NUMERO.slice(8);
 
   // Check: was product opened via URL ?p=
   const params = new URLSearchParams(window.location.search);
