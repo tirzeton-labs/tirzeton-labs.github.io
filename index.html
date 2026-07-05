@@ -543,7 +543,7 @@ main { max-width: 1280px; margin: 0 auto; padding: 32px 24px 96px; }
 .cart-empty h3 { margin: 0; font-size: 18px; font-weight: 600; }
 .cart-empty p { margin: 0; font-size: 14px; color: var(--text-2); }
 
-.modal { position: fixed; inset: 0; z-index: 110; display: none; place-items: center; padding: 24px; pointer-events: none; }
+.modal { position: fixed; inset: 0; z-index: 110; display: none; place-items: center; padding: 24px; background: rgba(0,0,0,0.45); }
 .modal.show { display: grid; }
 .modal-card {
   background: var(--surface); border-radius: var(--r-xl);
@@ -557,35 +557,12 @@ main { max-width: 1280px; margin: 0 auto; padding: 32px 24px 96px; }
 .modal-close { position: absolute; top: 16px; right: 16px; z-index: 2; }
 .modal-share { position: absolute; top: 16px; right: 68px; z-index: 2; }
 
-.carousel { position: relative; aspect-ratio: 1/1; background: var(--surface-2); overflow: hidden; }
-.carousel-track { display: flex; height: 100%; transition: transform 420ms var(--ease); }
-.carousel-slide { flex: 0 0 100%; height: 100%; }
-.carousel-slide img, .carousel-slide .ph { width: 100%; height: 100%; object-fit: cover; }
-.carousel-arrow {
-  position: absolute; top: 50%; transform: translateY(-50%);
-  width: 44px; height: 44px; border-radius: 999px;
-  background: color-mix(in srgb, var(--surface) 88%, transparent);
-  backdrop-filter: blur(10px); border: 1px solid var(--border);
-  display: grid; place-items: center; color: var(--text);
-  transition: background-color var(--t), transform var(--t-fast);
-}
-.carousel-arrow:hover { background: var(--surface); }
-.carousel-arrow:active { transform: translateY(-50%) scale(.94); }
-.carousel-arrow.prev { left: 14px; }
-.carousel-arrow.next { right: 14px; }
-.carousel-arrow svg { width: 16px; height: 16px; }
-.carousel-dots {
-  position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%);
-  display: flex; gap: 6px; padding: 6px 10px; border-radius: 999px;
-  background: color-mix(in srgb, var(--surface) 80%, transparent);
-  backdrop-filter: blur(8px);
-}
-.carousel-dots button {
-  width: 6px; height: 6px; border-radius: 999px;
-  background: var(--text-3); opacity: .5;
-  transition: width var(--t), opacity var(--t);
-}
-.carousel-dots button.active { width: 22px; opacity: 1; background: var(--text); }
+.gallery-main { width: 100%; aspect-ratio: 1/1; background: var(--surface-2); border-radius: 12px; overflow: hidden; }
+.gallery-main img, .gallery-main .ph { width: 100%; height: 100%; object-fit: cover; }
+.gallery-thumbs { display: flex; gap: 8px; margin-top: 12px; overflow-x: auto; padding-bottom: 4px; }
+.gallery-thumb { flex: 0 0 72px; height: 72px; border-radius: 8px; overflow: hidden; border: 2px solid transparent; cursor: pointer; padding: 0; background: none; transition: border-color var(--t); }
+.gallery-thumb.active { border-color: var(--primary); }
+.gallery-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
 
 .modal-body { padding: 36px 36px 28px; overflow-y: auto; display: flex; flex-direction: column; }
 .modal-cat { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; color: var(--text-3); margin-bottom: 10px; }
@@ -1207,20 +1184,16 @@ function renderModal(p) {
     <button class="btn-icon modal-share" id="modalShareBtn" aria-label="Compartilhar">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
     </button>
-    <div class="carousel" id="modalCarousel">
-      ${imgs.length > 1 ? `
-        <button class="carousel-arrow prev" id="carouselPrev" aria-label="Anterior">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m15 18-6-6 6-6"/></svg>
-        </button>
-        <button class="carousel-arrow next" id="carouselNext" aria-label="Próximo">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m9 18 6-6-6-6"/></svg>
-        </button>
-        <div class="carousel-dots" id="carouselDots">
-          ${imgs.map((_, i) => `<button class="${i===0?"active":""}" data-i="${i}" aria-label="Imagem ${i+1}"></button>`).join("")}
-        </div>` : ""}
-      <div class="carousel-track" id="carouselTrack">
-        ${imgs.map(img => `<div class="carousel-slide">${imgOrPh(img, p.nome)}</div>`).join("")}
+    <div class="gallery" id="modalGallery">
+      <div class="gallery-main" id="galleryMain">
+        ${imgOrPh(imgs[0], p.nome)}
       </div>
+      ${imgs.length > 1 ? `
+      <div class="gallery-thumbs" id="galleryThumbs">
+        ${imgs.map((img, i) => `<button class="gallery-thumb${i===0?" active":""}" data-i="${i}">
+          <img src="${esc(img)}" alt="${esc(p.nome)}" />
+        </button>`).join("")}
+      </div>` : ""}
     </div>
     <div class="modal-body">
       <p class="modal-cat">${esc(p.categoria||"")}</p>
@@ -1251,21 +1224,18 @@ function renderModal(p) {
     else navigator.clipboard?.writeText(url).then(() => toast("Link copiado"));
   });
 
-  // Carousel
-  let slide = 0;
-  const track = $("#carouselTrack");
-  const dots = $$("#carouselDots button");
-
-  function goTo(i) {
-    slide = i;
-    track.style.transform = `translateX(-${slide * 100}%)`;
-    dots.forEach((d, idx) => d.classList.toggle("active", idx === slide));
-  }
-
+  // Gallery thumbs
   if (imgs.length > 1) {
-    $("#carouselPrev").addEventListener("click", () => goTo(slide > 0 ? slide - 1 : imgs.length - 1));
-    $("#carouselNext").addEventListener("click", () => goTo(slide < imgs.length - 1 ? slide + 1 : 0));
-    dots.forEach(d => d.addEventListener("click", () => goTo(parseInt(d.dataset.i))));
+    const thumbs = $$("#galleryThumbs button");
+    const main = $("#galleryMain");
+
+    thumbs.forEach(t =>
+      t.addEventListener("click", () => {
+        const i = parseInt(t.dataset.i);
+        main.innerHTML = imgOrPh(imgs[i], p.nome);
+        thumbs.forEach((th, idx) => th.classList.toggle("active", idx === i));
+      })
+    );
   }
 
   // Qty stepper

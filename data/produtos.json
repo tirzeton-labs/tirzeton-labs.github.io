@@ -1,55 +1,115 @@
 {
     "categorias": [
         "Tirzepatida",
-        "Performance esportiva.",
+        "Hormônios Landerlan",
+        "Hormônios Bratva Labs",
         "Seringas"
     ],
     "produtos": [
+        {
+            "id": "tirzedral-15mg",
+            "nome": "Tirzedral 15mg - Ampolas Tirzepatida",
+            "categoria": "Tirzepatida",
+            "medida": "unidade",
+            "preco": 999.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Tirzedral Tirzepatida em ampolas, desenvolvido pelo renomado Laboratório Catedral, representa o que há de mais moderno na ciência farmacêutica voltada para a saúde metabólica. Este produto foi formulado com rigorosos padrões de qualidade para oferecer uma opção eficiente e segura para pacientes que necessitam de um suporte terapêutico de alta tecnologia em sua jornada de bem-estar.\n\nOs principais benefícios deste composto incluem um auxílio robusto no controle dos níveis glicêmicos e uma atuação significativa na regulação do apetite, o que favorece diretamente o gerenciamento de peso saudável. Por atuar em receptores hormonais específicos, ele promove uma sensação de saciedade prolongada e melhora a resposta metabólica do organismo frente aos desafios do dia a dia, proporcionando mais disposição e equilíbrio.\n\nO modo de uso deve seguir rigorosamente a prescrição de um profissional de saúde habilitado, sendo geralmente administrado via subcutânea conforme a necessidade individual de cada paciente. O produto é indicado para adultos que buscam otimizar sua saúde metabólica sob supervisão médica, sendo um aliado indispensável para quem deseja resultados consistentes aliados à segurança de um laboratório de confiança.",
+            "imagens": [
+                "assets/produtos/tirzedral-15mg/foto-1.png",
+                "assets/produtos/tirzedral-15mg/foto-2.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "testenat-gold-10ml",
+            "nome": "Testenat Gold 10ml (Enantato de Testosterona 250mg/mL)",
+            "categoria": "Hormônios Landerlan",
+            "medida": "unidade",
+            "preco": 255.48,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Enantato de Testosterona é o éster de testosterona mais utilizado no mundo, reconhecido por sua eficácia e perfil de ação prolongada.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Contém enantato de testosterona 250 mg/mL. Administração intramuscular profunda. Conservar entre 15°C e 30°C.\n\nA testosterona, principal andrógeno sexual, é responsável pelo desenvolvimento e manutenção das características sexuais secundárias masculinas, exercendo importante ação anabólica.\n\nIndicações:\n\n- Terapia de reposição hormonal para homens com hipogonadismo\n- Aumento da massa muscular magra e força\n- Melhora da densidade óssea e libido\n- Aumento da produção de eritrócitos\n- Melhora do bem-estar geral e níveis de energia",
+            "imagens": [
+                "assets/produtos/testenat-gold-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-sales-testosterona-250mg-cx10",
+            "nome": "Sales de Testosterona (Dura) 250mg cx c/10 Ampolas Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 325.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "As Sales de Testosterona são uma combinação de diferentes ésteres de testosterona projetada para proporcionar liberação rápida e sustentada do hormônio no organismo. Esta formulação combina ésteres de curta e longa duração para otimizar a estabilidade dos níveis plasmáticos, reduzindo a frequência de administração e mantendo a atividade androgênica e anabólica por período prolongado.\n\nMecanismo de ação: Após administração intramuscular profunda, os diferentes ésteres presentes na mistura são liberados gradualmente do veículo oleoso para a circulação. Os ésteres de ação curta (como propionato e fenilpropionato) proporcionam aumento rápido da testosterona livre, enquanto os de ação prolongada (como isocaproato e decanoato) mantêm níveis estáveis por vários dias. A testosterona ativa se liga a receptores androgênicos nos tecidos-alvo, regulando a expressão gênica e estimulando processos anabólicos como a síntese proteica e a retenção de nitrogênio.\n\nCaracterísticas físico-químicas: Solução límpida a ligeiramente amarelada. Densidade aproximada de 0,92-0,94 g/mL.\n\nApresentação: Ampola de 1 mL. Caixa com 10 ampolas.\n\nConservar protegido da luz e calor, entre 15°C e 25°C. Não congelar.",
+            "imagens": [
+                "assets/produtos/bratva-sales-testosterona-250mg-cx10/foto-1.png",
+                "assets/produtos/bratva-sales-testosterona-250mg-cx10/foto-2.png"
+            ],
+            "ativo": true
+        },
         {
             "id": "t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas",
             "nome": "T.G 4 ampolas de 15mg",
             "categoria": "Tirzepatida",
             "medida": "caixa",
-            "preco": 950,
+            "preco": 999.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.\n\nAção: Retarda o esvaziamento gástrico, melhora a sensibilidade à insulina e reduz a ingestão calórica ao aumentar a sensação de saciedade.\n\nEficácia (Perda de Peso): Estudos (Surmount-1) mostram que a tirzepatida pode levar a uma redução significativa do peso corporal, com estudos indicando perdas de até 20% ou mais em 72 semanas, frequentemente mais expressiva com doses maiores como 12,5mg e 15mg.\n\nAdministração: É uma injeção subcutânea semanal (1 vez por semana), geralmente aplicada no abdômen, coxa ou parte posterior do braço.\n\nApresentação: A embalagem contém canetas injetáveis com 4 doses (uso mensal).\n\nEfeitos Colaterais: Os mais comuns incluem náuseas, vômitos, diarreia, constipação, dor abdominal e gases. Estes tendem a ocorrer mais no início do tratamento ou com o aumento da dose.\n\nRecomendação: A dose de 15mg geralmente não é a inicial; o tratamento começa com 2,5mg e aumenta progressivamente a cada 4 semanas para minimizar efeitos colaterais. O acompanhamento médico é indispensável.",
             "imagens": [
-                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-1.jpg",
-                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-2.jpg",
-                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-3.jpg",
-                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-4.jpg"
+                "assets/produtos/t-g-15-tirzepatida-15-mg-0-5-ml-caixa-4-ampolas/foto-1.jpg"
             ],
             "ativo": true
         },
         {
-            "id": "lipoland-60mg-4-ampolas",
-            "nome": "Lipoland 4 ampolas de 15mg",
+            "id": "slimex-15mg-4-ampolas",
+            "nome": "Slimex 15mg 4 Ampolas Tirzepatida",
             "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 950,
+            "preco": 999.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
-            "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
+            "descricao": "Caixa com 4 ampolas de 1 mL, 15 mg/mL. Para uso subcutâneo. O Slimex é um produto desenvolvido para oferecer suporte ao bem-estar e ao equilíbrio metabólico, seguindo elevados padrões de qualidade. Sua fórmula auxilia no controle do apetite, promove maior sensação de saciedade e contribui para um gerenciamento de peso mais eficiente. O uso deve ser realizado conforme orientação de um profissional de saúde, garantindo segurança e melhores resultados para cada paciente.",
             "imagens": [
-                "assets/produtos/lipoland-60mg-4-ampolas/foto-1.jpg",
-                "assets/produtos/lipoland-60mg-4-ampolas/foto-2.jpg",
-                "assets/produtos/lipoland-60mg-4-ampolas/foto-3.jpg",
-                "assets/produtos/lipoland-60mg-4-ampolas/foto-4.jpg"
+                "assets/produtos/slimex-15mg-4-ampolas/foto-1.png"
             ],
             "ativo": true
         },
         {
-            "id": "lipoless-4-ampolas-15mg",
-            "nome": "Lipoless 4 Ampolas 15mg",
+            "id": "gluconex-15mg-1ml",
+            "nome": "Gluconex 15 mg / 1 mL Tirzepatida",
             "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 950,
+            "preco": 999.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
-            "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
+            "descricao": "Apresentação: caixa contendo 4 ampolas de vidro estéreis, cada ampola com 1 mL de solução injetável (concentração 15 mg/1 mL) para uso subcutâneo.\n\nPrincípio ativo: tirzepatida 15 mg por ampola.\n\nExcipientes: solução aquosa estéril com conservantes e excipientes (consultar bula do fabricante para lista completa).\n\nForma farmacêutica: solução estéril para injeção subcutânea em ampolas unitárias.\n\nIndicação: uso conforme indicação aprovada e protocolos institucionais. Administração subcutânea conforme regime terapêutico e titulação recomendados.",
             "imagens": [
-                "assets/produtos/lipoless-4-ampolas-15mg/foto-1.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg/foto-2.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg/foto-3.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg/foto-4.jpg"
+                "assets/produtos/gluconex-15mg-1ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "kit-20-seringas-insulina-1ml",
+            "nome": "Kit 20 Seringas de Insulina 1ml com Agulha Fixa 8x0,30mm",
+            "categoria": "Seringas",
+            "medida": "unidade",
+            "preco": 44.9,
+            "resumo": "Frete sob consulta.",
+            "descricao": "Seringa de insulina 1ml com agulha fixa 8mm x 0,30mm (30G) - Pacote com 20 unidades.\n\nPrecisão, conforto e zero desperdício de medicação.\n\nSeja para aplicação diária de insulina ou para procedimentos estéticos (como toxina botulínica), cada gota conta. Seringas comuns com agulha removível acumulam líquido no bico, gerando desperdício de medicamentos caros.\n\nA Seringa com agulha fixa resolve esse problema. Por ser integrada ao corpo da seringa, ela oferece Espaço Morto Zero, garantindo que 100% da dose aspirada seja aplicada.\n\nAgulha ultra fina e curta (8mm x 0,30mm): O tamanho 8mm é a tendência mundial para aplicações subcutâneas. É curta o suficiente para não atingir o músculo (o que causaria dor e absorção errada) e ideal para pacientes magros ou crianças. Com calibre 30G (0,30mm), ela é extremamente fina, proporcionando uma punção praticamente indolor.",
+            "imagens": [
+                "assets/produtos/kit-20-seringas-insulina-1ml/foto-1.jpg",
+                "assets/produtos/kit-20-seringas-insulina-1ml/foto-2.jpg"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "durateston-gold-10ml",
+            "nome": "Durateston Gold 250mg 10ml (Mistura de 4 Ésteres de Testosterona)",
+            "categoria": "Hormônios Landerlan",
+            "medida": "unidade",
+            "preco": 275.33,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Durateston Gold é uma combinação de quatro ésteres de testosterona de ação rápida, intermediária e prolongada, proporcionando níveis sanguíneos estáveis e constantes do hormônio.\n\nComposição:\n- Testosterona Propionato 30mg (ação rápida)\n- Testosterona Fenilpropionato 60mg (ação intermediária)\n- Testosterona Isocaproato 60mg (ação intermediária)\n- Testosterona Decanoato 100mg (ação prolongada)\n\nTotal: 250mg/mL de testosterona.\n\nEsta combinação única elimina a necessidade de aplicações frequentes, mantendo níveis hormonais equilibrados.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Administração intramuscular. Conservar entre 15°C e 30°C.\n\nIndicações:\n\n- Terapia de reposição hormonal para homens com hipogonadismo\n- Aumento da massa muscular magra e força\n- Melhora da densidade óssea\n- Aumento da libido e desempenho sexual\n- Melhora do bem-estar geral e níveis de energia",
+            "imagens": [
+                "assets/produtos/durateston-gold/foto-1.png"
             ],
             "ativo": true
         },
@@ -58,7 +118,7 @@
             "nome": "Lipoless 15mg MD (60mg/2mL)",
             "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 950,
+            "preco": 999.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
@@ -74,7 +134,7 @@
             "nome": "Lipoland MD 15mg (60mg/2mL)",
             "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 950,
+            "preco": 999.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
@@ -86,38 +146,25 @@
             "ativo": true
         },
         {
-            "id": "kit-20-seringas-insulina-1ml",
-            "nome": "Kit 20 Seringas de Insulina 1ml com Agulha Fixa 8x0,30mm",
-            "categoria": "Seringas",
+            "id": "lipoland-60mg-4-ampolas",
+            "nome": "Lipoland 4 ampolas de 15mg",
+            "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 44.9,
-            "resumo": "Frete sob consulta.",
-            "descricao": "Seringa de insulina 1ml com agulha fixa 8mm x 0,30mm (30G) - Pacote com 20 unidades.\n\nPrecisão, conforto e zero desperdício de medicação.\n\nSeja para aplicação diária de insulina ou para procedimentos estéticos (como toxina botulínica), cada gota conta. Seringas comuns com agulha removível acumulam líquido no bico, gerando desperdício de medicamentos caros.\n\nA Seringa com agulha fixa resolve esse problema. Por ser integrada ao corpo da seringa, ela oferece Espaço Morto Zero, garantindo que 100% da dose aspirada seja aplicada.\n\nAgulha ultra fina e curta (8mm x 0,30mm): O tamanho 8mm é a tendência mundial para aplicações subcutâneas. É curta o suficiente para não atingir o músculo (o que causaria dor e absorção errada) e ideal para pacientes magros ou crianças. Com calibre 30G (0,30mm), ela é extremamente fina, proporcionando uma punção praticamente indolor.",
-            "imagens": [
-                "assets/produtos/kit-20-seringas-insulina-1ml/foto-1.jpg",
-                "assets/produtos/kit-20-seringas-insulina-1ml/foto-2.jpg",
-                "assets/produtos/kit-20-seringas-insulina-1ml/foto-3.jpg",
-                "assets/produtos/kit-20-seringas-insulina-1ml/foto-4.jpg"
-            ],
-            "ativo": true
-        },
-        {
-            "id": "testenat-gold-10ml",
-            "nome": "Testenat Gold 10ml (Enantato de Testosterona 250mg/mL)",
-            "categoria": "Performance esportiva.",
-            "medida": "unidade",
-            "preco": 255.48,
+            "preco": 999.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
-            "descricao": "O Enantato de Testosterona é o éster de testosterona mais utilizado no mundo, reconhecido por sua eficácia e perfil de ação prolongada.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Contém enantato de testosterona 250 mg/mL. Administração intramuscular profunda. Conservar entre 15°C e 30°C.\n\nA testosterona, principal andrógeno sexual, é responsável pelo desenvolvimento e manutenção das características sexuais secundárias masculinas, exercendo importante ação anabólica.\n\nIndicações:\n\n- Terapia de reposição hormonal para homens com hipogonadismo\n- Aumento da massa muscular magra e força\n- Melhora da densidade óssea e libido\n- Aumento da produção de eritrócitos\n- Melhora do bem-estar geral e níveis de energia",
+            "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
-                "assets/produtos/testenat-gold-10ml/foto-1.png"
+                "assets/produtos/lipoland-60mg-4-ampolas/foto-1.jpg",
+                "assets/produtos/lipoland-60mg-4-ampolas/foto-2.jpg",
+                "assets/produtos/lipoland-60mg-4-ampolas/foto-3.jpg",
+                "assets/produtos/lipoland-60mg-4-ampolas/foto-4.jpg"
             ],
             "ativo": true
         },
         {
             "id": "drostanolona-propionato-masteron-10ml",
             "nome": "Drostanolona Propionato 100mg 10ml (Masteron)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 254.51,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -128,22 +175,25 @@
             "ativo": true
         },
         {
-            "id": "durateston-gold-10ml",
-            "nome": "Durateston Gold 250mg 10ml (Mistura de 4 Ésteres de Testosterona)",
-            "categoria": "Performance esportiva.",
+            "id": "lipoless-4-ampolas-15mg",
+            "nome": "Lipoless 4 Ampolas 15mg",
+            "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 275.33,
+            "preco": 999.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
-            "descricao": "O Durateston Gold é uma combinação de quatro ésteres de testosterona de ação rápida, intermediária e prolongada, proporcionando níveis sanguíneos estáveis e constantes do hormônio.\n\nComposição:\n- Testosterona Propionato 30mg (ação rápida)\n- Testosterona Fenilpropionato 60mg (ação intermediária)\n- Testosterona Isocaproato 60mg (ação intermediária)\n- Testosterona Decanoato 100mg (ação prolongada)\n\nTotal: 250mg/mL de testosterona.\n\nEsta combinação única elimina a necessidade de aplicações frequentes, mantendo níveis hormonais equilibrados.\n\nFrasco de vidro âmbar com 10 mL de solução oleosa. Administração intramuscular. Conservar entre 15°C e 30°C.\n\nIndicações:\n\n- Terapia de reposição hormonal para homens com hipogonadismo\n- Aumento da massa muscular magra e força\n- Melhora da densidade óssea\n- Aumento da libido e desempenho sexual\n- Melhora do bem-estar geral e níveis de energia",
+            "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
-                "assets/produtos/durateston-gold/foto-1.png"
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-1.jpg",
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-2.jpg",
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-3.jpg",
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-4.jpg"
             ],
             "ativo": true
         },
         {
             "id": "trembolona-enantato-200mg-10ml",
             "nome": "Trembolona Enantato 200mg 10ml",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 270.71,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -156,7 +206,7 @@
         {
             "id": "clembuterol-50-comprimidos",
             "nome": "Clembuterol 50 Comprimidos 0,04mg",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 238.31,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -169,7 +219,7 @@
         {
             "id": "decaland-gold-200mg-10ml",
             "nome": "Decaland Gold 200mg 10ml (Decanoato de Nandrolona)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 268.11,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -182,7 +232,7 @@
         {
             "id": "primobolan-10ml",
             "nome": "Primobolan 10ml (Metenolona Enantato 100mg/mL)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 391.43,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -195,7 +245,7 @@
         {
             "id": "boldenona-250mg-10ml",
             "nome": "Boldenona 250mg 10ml (Undecilato de Boldenona)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 254.34,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -208,7 +258,7 @@
         {
             "id": "fenil-nandrolona-100mg-10ml",
             "nome": "Fenil Nandrolona 100mg 10ml (Nandrolona Fenilpropionato - NPP)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 261.96,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -221,7 +271,7 @@
         {
             "id": "trembolona-acetato-100mg-10ml",
             "nome": "Trembolona Acetato 100mg 10ml",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 307.41,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -234,7 +284,7 @@
         {
             "id": "oxandrolona-10mg-50-comprimidos",
             "nome": "Oxandrolona 10mg 50 Comprimidos",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 309.6,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -247,7 +297,7 @@
         {
             "id": "landertroping-gh-100ui",
             "nome": "Landertroping GH 100UI (Somatropina - Hormônio do Crescimento)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 2758.76,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -260,7 +310,7 @@
         {
             "id": "testo-propionate-100mg-10ml",
             "nome": "Testo Propionate 100mg 10ml (Propionato de Testosterona)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 236.78,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -273,7 +323,7 @@
         {
             "id": "androlic-mesterolona",
             "nome": "Androlic Mesterolona 25mg 20 Comprimidos",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 203.72,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -286,7 +336,7 @@
         {
             "id": "testenat-enantato-4ml-250mg",
             "nome": "Testenat Enantato de Testosterona 250mg 4ml",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 179.82,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -299,7 +349,7 @@
         {
             "id": "stanozoland-50mg-30ml",
             "nome": "Stanozoland Depot 50mg 30ml (Stanozolol Injetável)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 253.86,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -312,7 +362,7 @@
         {
             "id": "oxandrolona-5mg-100-comprimidos",
             "nome": "Oxandrolona 5mg 100 Comprimidos",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 316.65,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -325,7 +375,7 @@
         {
             "id": "decaland-5ml-200mg",
             "nome": "Decaland Depot 5ml 200mg (Decanoato de Nandrolona)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 178.94,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -338,7 +388,7 @@
         {
             "id": "oxitoland-50mg-20-comprimidos",
             "nome": "Oxitoland 50mg 20 Comprimidos (Oximetolona)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 178.94,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -351,7 +401,7 @@
         {
             "id": "testoland-3-ampolas-2ml",
             "nome": "Testoland Depot Cipionato de Testosterona 200mg 3 Ampolas x 2ml",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 171.48,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
@@ -364,13 +414,372 @@
         {
             "id": "methandrostenolona-dianabol",
             "nome": "Methandrostenolona 10mg 100 Comprimidos (Dianabol)",
-            "categoria": "Performance esportiva.",
+            "categoria": "Hormônios Landerlan",
             "medida": "unidade",
             "preco": 181.53,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "A Methandrostenolona, conhecida comercialmente como Dianabol, é um dos esteroides anabolizantes orais mais clássicos e populares.\n\nPossui potente ação anabólica e androgênica, proporcionando ganhos rápidos e significativos de massa muscular e força.\n\nFrasco com 100 comprimidos de 10mg de methandrostenolona cada um. Via oral.\n\nIndicações:\n\n- Ganho rápido de massa muscular\n- Aumento significativo de força\n- Melhora da recuperação e síntese proteica\n- Aumento do apetite e bem-estar",
             "imagens": [
                 "assets/produtos/methandrostenolona-dianabol/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-sales-testosterona-250mg-10ml",
+            "nome": "Sales de Testosterona (Dura) 250mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 275.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "As Sales de Testosterona são uma combinação de diferentes ésteres de testosterona (propionato, fenilpropionato, isocaproato e decanoato) projetada para proporcionar liberação rápida e sustentada do hormônio. Esta combinação otimiza a estabilidade dos níveis plasmáticos, reduzindo a frequência de administração.\n\nApós administração intramuscular profunda, os diferentes ésteres são liberados gradualmente do veículo oleoso. Os ésteres de ação curta proporcionam aumento rápido da testosterona livre, enquanto os de ação prolongada mantêm níveis estáveis por vários dias.\n\nFrasco vial de 10 mL com 250 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-sales-testosterona-250mg-10ml/foto-1.png",
+                "assets/produtos/bratva-sales-testosterona-250mg-10ml/foto-2.png",
+                "assets/produtos/bratva-sales-testosterona-250mg-10ml/foto-3.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-enantato-testosterona-250mg-10ml",
+            "nome": "Enantato de Testosterona 250mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 275.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Enantato de Testosterona é um éster de liberação lenta da testosterona, hormônio esteroidal natural da classe dos andrógenos. Apresenta ação anabólica e androgênica.\n\nApós administração intramuscular, o enantato de testosterona se libera gradualmente do veículo oleoso, sofrendo hidrólise enzimática e liberando testosterona livre. Esta se une aos receptores androgênicos em diversos tecidos-alvo (músculo, ossos, sistema nervoso central), modulando a expressão gênica e promovendo efeitos anabólicos.\n\nFrasco vial de 10 mL com 250 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-enantato-testosterona-250mg-10ml/foto-1.png",
+                "assets/produtos/bratva-enantato-testosterona-250mg-10ml/foto-2.png",
+                "assets/produtos/bratva-enantato-testosterona-250mg-10ml/foto-3.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-cipionato-testosterona-200mg-10ml",
+            "nome": "Cipionato de Testosterona 200mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 275.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Cipionato de Testosterona é um éster de testosterona de ação prolongada, proporcionando níveis estáveis do hormônio com aplicações espaçadas.\n\nIdeal para terapia de reposição hormonal e ciclos de ganho muscular, com perfil similar ao enantato em termos de meia-vida e eficácia.\n\nFrasco vial de 10 mL com 200 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-cipionato-testosterona-200mg-10ml/foto-1.png",
+                "assets/produtos/bratva-cipionato-testosterona-200mg-10ml/foto-2.png",
+                "assets/produtos/bratva-cipionato-testosterona-200mg-10ml/foto-3.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-propionato-testosterona-100mg-10ml",
+            "nome": "Propionato de Testosterona 100mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 265.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Propionato de Testosterona é um éster de ação rápida, caracterizado por liberação acelerada e meia-vida curta na corrente sanguínea.\n\nO éster propionato confere início de ação rápido, exigindo administrações mais frequentes para manter níveis plasmáticos estáveis. É amplamente utilizado em ciclos de definição muscular devido à menor retenção hídrica.\n\nFrasco vial de 10 mL com 100 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-propionato-testosterona-100mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-decanoato-nandrolona-200mg-10ml",
+            "nome": "Decanoato de Nandrolona (Deca) 200mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 275.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Decanoato de Nandrolona é um esteroide anabólico-androgênico sintético derivado da nandrolona, caracterizado por potente ação anabólica e moderada atividade androgênica.\n\nSeu éster decanoato confere liberação prolongada, permitindo níveis plasmáticos estáveis por várias semanas. É utilizado para aumentar massa muscular magra, força e síntese proteica, com mínima retenção hídrica.\n\nFrasco vial de 10 mL com 200 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-decanoato-nandrolona-200mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-boldenona-250mg-10ml",
+            "nome": "Undecilenato de Boldenona 250mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 275.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Boldenona Undecilenato é um esteroide anabólico-androgênico derivado da testosterona, com ação anabólica moderada e prolongada. Conhecida por proporcionar ganhos steady e de qualidade, com baixa retenção hídrica.\n\nAumenta o apetite e a produção de glóbulos vermelhos, melhorando a oxigenação muscular e resistência.\n\nFrasco vial de 10 mL com 250 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-boldenona-250mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-fenilpropionato-nandrolona-100mg-10ml",
+            "nome": "Fenilpropionato de Nandrolona (NPP) 100mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 275.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Nandrolona Fenilpropionato é um esteroide anabólico-androgênico derivado da nandrolona com éster de ação rápida, proporcionando resultados mais rápidos que o decanoato.\n\nPossui poderoso efeito anabólico com moderada atividade androgênica, eficaz para ganho de massa muscular magra e recuperação articular. O éster fenilpropionato permite início de ação mais rápido.\n\nFrasco vial de 10 mL com 100 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-fenilpropionato-nandrolona-100mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-masteron-100mg-10ml",
+            "nome": "Propionato de Drostanolona (Masteron) 100mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 290.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Propionato de Drostanolona, conhecido como Masteron, é um esteroide anabólico-androgênico derivado da di-hidrotestosterona (DHT), caracterizado por sua incapacidade de aromatizar a estrógenos.\n\nO éster propionato confere liberação rápida e meia-vida curta. Proporciona aspecto muscular denso, duro e vascularizado, sendo ideal para períodos de definição.\n\nFrasco vial de 10 mL com 100 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-masteron-100mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-b-blend-150mg-10ml",
+            "nome": "B-Blend 150mg 10ml Bratva (Boldenona + Testosterona + Nandrolona)",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 280.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "B-Blend é uma formulação combinada de três princípios ativos: undecilenato de boldenona 50 mg/mL + enantato de testosterona 50 mg/mL + decanoato de nandrolona 50 mg/mL.\n\nEsta combinação oferece um perfil anabólico e androgênico equilibrado, promovendo desenvolvimento de massa muscular magra, força e recuperação, minimizando retenção hídrica e conversão estrogênica.\n\nFrasco vial de 10 mL com 150 mg/mL total. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-b-blend-150mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-acetato-trembolona-100mg-10ml",
+            "nome": "Acetato de Trembolona 100mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 295.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Acetato de Trembolona é um potente esteroide anabólico-androgênico sintético derivado da nandrolona, com alta potência anabólica e androgênica.\n\nO éster acetato confere liberação rápida e meia-vida curta, com início de ação acelerado. Não aromatiza a estrógenos, sendo segura quanto a retenção hídrica e ginecomastia.\n\nFrasco vial de 10 mL com 100 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-acetato-trembolona-100mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-enantato-trembolona-200mg-10ml",
+            "nome": "Enantato de Trembolona 200mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 340.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Enantato de Trembolona é um potente esteroide anabolizante derivado da nandrolona, com ação anabólica extremamente potente e moderada atividade androgênica.\n\nNão aromatiza a estrógenos, evitando retenção hídrica e ginecomastia.\n\nFrasco vial de 10 mL com 200 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-enantato-trembolona-200mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-stanozolol-50mg-10ml",
+            "nome": "Stanozolol Oleoso 50mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 275.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Stanozolol é um esteroide anabólico derivado do DHT (di-hidrotestosterona), amplamente utilizado em períodos de definição muscular.\n\nNão aromatiza a estrógenos, não causando retenção hídrica ou ginecomastia. Proporciona aspecto muscular duro, seco e vascularizado.\n\nFrasco vial de 10 mL com 50 mg/mL em suspensão aquosa estéril.",
+            "imagens": [
+                "assets/produtos/bratva-stanozolol-50mg-10ml/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-primobolan-100mg-10ml",
+            "nome": "Enantato de Metenolona (Primobolan) 100mg 10ml Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 400.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Enantato de Metenolona, conhecido como Primobolan, é um esteroide anabólico derivado do DHT, com perfil extremamente seguro e suave.\n\nNão aromatiza a estrógenos, não causando retenção hídrica ou ginecomastia. Considerado uma das substâncias mais seguras para uso prolongado.\n\nFrasco vial de 10 mL com 100 mg/mL. Veículo: óleo de arroz refinado, grau farmacêutico.",
+            "imagens": [
+                "assets/produtos/bratva-primobolan-100mg-10ml/foto-1.png",
+                "assets/produtos/bratva-primobolan-100mg-10ml/foto-2.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-decanoato-nandrolona-200mg-cx10",
+            "nome": "Decanoato de Nandrolona (Deca) 200mg cx c/10 Ampolas Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 325.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O decanoato de nandrolona é um esteroide anabólico androgênico sintético derivado da nandrolona, caracterizado por potente ação anabólica e moderada atividade androgênica. Seu éster decanoato confere liberação prolongada, permitindo manter níveis plasmáticos estáveis durante várias semanas, reduzindo a frequência de administração. É utilizado principalmente para aumentar a massa muscular magra, força e síntese proteica, com mínima retenção hídrica.\n\nMecanismo de ação: Após administração intramuscular profunda, o decanoato de nandrolona é liberado lentamente do veículo oleoso para a circulação sistêmica. O éster é hidrolisado por enzimas plasmáticas, liberando nandrolona ativa, que se liga a receptores androgênicos nos tecidos-alvo (músculo, ossos, sistema nervoso central), estimulando a síntese proteica, a retenção de nitrogênio e promovendo o crescimento e manutenção da massa muscular magra.\n\nCaracterísticas físico-químicas: Solução límpida a ligeiramente amarelada. Densidade aproximada de 0,92-0,94 g/mL.\n\nApresentação: Ampola de 1 mL. Caixa com 10 ampolas.\n\nConservar protegido da luz e calor, entre 15°C e 25°C. Não congelar.",
+            "imagens": [
+                "assets/produtos/bratva-decanoato-nandrolona-200mg-cx10/foto-1.png",
+                "assets/produtos/bratva-decanoato-nandrolona-200mg-cx10/foto-2.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-enantato-metenolona-100mg-cx10",
+            "nome": "Enantato de Metenolona (Primobolan) 100mg cx c/10 Ampolas Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 460.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A metenolona enantato é um esteroide anabólico androgênico derivado da di-hidrotestosterona (DHT), modificado pela adição do éster enantato para prolongar sua liberação e meia-vida no organismo. Apresenta perfil anabólico moderado e baixa atividade androgênica, tornando-a adequada para aplicações onde se busca preservar massa muscular magra com mínima retenção hídrica. É utilizada principalmente em formulações para administração intramuscular profunda.\n\nMecanismo de ação: Após administração intramuscular, a metenolona enantato é liberada lentamente do veículo oleoso para a circulação sistêmica. O éster enantato é hidrolisado por enzimas plasmáticas, liberando metenolona ativa. Esta se liga aos receptores androgênicos nos tecidos-alvo, promovendo a síntese de proteínas, a retenção de nitrogênio e a preservação da massa muscular, com reduzida conversão em estrógenos devido à sua resistência à aromatização.\n\nCaracterísticas físico-químicas: Solução límpida a ligeiramente amarelada. Densidade aproximada de 0,92-0,94 g/mL.\n\nApresentação: Ampola de 1 mL. Caixa com 10 ampolas.\n\nConservar protegido da luz e calor, entre 15°C e 25°C. Não congelar.",
+            "imagens": [
+                "assets/produtos/bratva-enantato-metenolona-100mg-cx10/foto-1.png",
+                "assets/produtos/bratva-enantato-metenolona-100mg-cx10/foto-2.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-masteron-100mg-cx10",
+            "nome": "Propionato de Drostanolona (Masteron) 100mg cx c/10 Ampolas Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 355.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A drostanolona propionato é um esteroide anabólico androgênico derivado da di-hidrotestosterona (DHT), caracterizado por sua incapacidade de aromatizar em estrógenos e sua moderada potência anabólica combinada com marcada ação androgênica. O éster propionato confere liberação rápida e meia-vida curta, exigindo administrações mais frequentes para manter níveis plasmáticos estáveis. É empregado em formulações para administração intramuscular profunda, principalmente em contextos onde se busca favorecer a definição muscular e minimizar a retenção hídrica.\n\nMecanismo de ação: Após injeção intramuscular, a drostanolona propionato é liberada rapidamente do veículo oleoso para a circulação sistêmica. Uma vez hidrolisado o éster por ação enzimática, a drostanolona livre se liga a receptores androgênicos nos tecidos-alvo (músculo esquelético, sistema nervoso central, osso), estimulando a síntese proteica, incrementando a retenção de nitrogênio e favorecendo um ambiente anabólico sem atividade estrogênica significativa.\n\nCaracterísticas físico-químicas: Solução límpida a ligeiramente amarelada. Densidade aproximada de 0,92-0,94 g/mL.\n\nApresentação: Ampola de 1 mL. Caixa com 10 ampolas.\n\nConservar protegido da luz e calor, entre 15°C e 25°C. Não congelar.",
+            "imagens": [
+                "assets/produtos/bratva-masteron-100mg-cx10/foto-1.png",
+                "assets/produtos/bratva-masteron-100mg-cx10/foto-2.png",
+                "assets/produtos/bratva-masteron-100mg-cx10/foto-3.png",
+                "assets/produtos/bratva-masteron-100mg-cx10/foto-4.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-enantato-testosterona-250mg-cx10",
+            "nome": "Enantato de Testosterona 250mg cx c/10 Ampolas Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 325.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A testosterona enantato é um éster de liberação lenta da testosterona, hormônio esteroide natural pertencente à classe dos andrógenos. Apresenta ação anabólica e androgênica, sendo utilizada em formulações para administração intramuscular profunda. Sua estrutura molecular deriva da testosterona endógena, modificada pelo grupo enantato para prolongar a meia-vida plasmática, permitindo intervalos mais prolongados entre aplicações.\n\nMecanismo de ação: Após administração intramuscular, o enantato de testosterona é liberado gradualmente do veículo oleoso para a corrente sanguínea, onde sofre hidrólise enzimática liberando testosterona livre. Esta se liga aos receptores androgênicos presentes em diversos tecidos-alvo (músculo, ossos, sistema nervoso central), modulando a expressão gênica e promovendo efeitos anabólicos (aumento da síntese proteica e retenção de nitrogênio) e androgênicos (desenvolvimento e manutenção das características sexuais masculinas).\n\nCaracterísticas físico-químicas: Solução límpida a ligeiramente amarelada. Densidade aproximada de 0,92-0,94 g/mL.\n\nApresentação: Ampola de 1 mL. Caixa com 10 ampolas.\n\nConservar protegido da luz e calor, entre 15°C e 25°C. Não congelar.",
+            "imagens": [
+                "assets/produtos/bratva-enantato-testosterona-250mg-cx10/foto-1.png",
+                "assets/produtos/bratva-enantato-testosterona-250mg-cx10/foto-2.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-acetato-trembolona-100mg-cx10",
+            "nome": "Acetato de Trembolona 100mg cx c/10 Ampolas Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 355.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O acetato de trembolona é um esteroide anabólico androgênico sintético derivado da nandrolona, caracterizado por alta potência anabólica e androgênica. O éster acetato confere liberação rápida e meia-vida curta, favorecendo início de ação acelerado e exigindo administrações frequentes para manter níveis plasmáticos ótimos. É utilizado principalmente em contextos onde se busca marcado aumento de massa muscular magra, força e densidade, minimizando a retenção hídrica.\n\nMecanismo de ação: Após administração intramuscular, o acetato de trembolona é liberado rapidamente do veículo oleoso para a circulação sistêmica. O éster acetato é hidrolisado por enzimas plasmáticas, liberando trembolona ativa. Esta se liga a receptores androgênicos no músculo esquelético, ossos e outros tecidos, incrementando a síntese proteica, melhorando a utilização do nitrogênio e potencializando a regeneração tecidual. A trembolona não aromatiza em estrógenos, mas apresenta afinidade por receptores progestágenos, o que contribui para seu perfil único de ação.\n\nCaracterísticas físico-químicas: Solução límpida a ligeiramente amarelada. Densidade aproximada de 0,92-0,94 g/mL.\n\nApresentação: Ampola de 1 mL. Caixa com 10 ampolas.\n\nConservar protegido da luz e calor, entre 15°C e 25°C. Não congelar.",
+            "imagens": [
+                "assets/produtos/bratva-acetato-trembolona-100mg-cx10/foto-1.png",
+                "assets/produtos/bratva-acetato-trembolona-100mg-cx10/foto-2.png",
+                "assets/produtos/bratva-acetato-trembolona-100mg-cx10/foto-3.png",
+                "assets/produtos/bratva-acetato-trembolona-100mg-cx10/foto-4.png",
+                "assets/produtos/bratva-acetato-trembolona-100mg-cx10/foto-5.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-oxandrolona-10mg-50comp",
+            "nome": "Oxandrolona 10mg 50 Comprimidos Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 315.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Oxandrolona é um esteroide anabólico derivado do DHT, com ação anabólica significativa e baixa atividade androgênica.\n\nFavorece o ganho de massa muscular magra, síntese proteica e retenção de nitrogênio. Não aromatiza a estrógenos, com mínima retenção de líquidos.\n\nCaixa com 50 comprimidos de 10 mg cada. Via oral.",
+            "imagens": [
+                "assets/produtos/bratva-oxandrolona-10mg-50comp/foto-1.png",
+                "assets/produtos/bratva-oxandrolona-10mg-50comp/foto-2.png",
+                "assets/produtos/bratva-oxandrolona-10mg-50comp/foto-3.png",
+                "assets/produtos/bratva-oxandrolona-10mg-50comp/foto-4.png",
+                "assets/produtos/bratva-oxandrolona-10mg-50comp/foto-5.png",
+                "assets/produtos/bratva-oxandrolona-10mg-50comp/foto-6.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-oxandrolona-20mg-50comp",
+            "nome": "Oxandrolona 20mg 50 Comprimidos Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 415.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Oxandrolona 20mg é a versão de alta concentração, com ação anabólica significativa e baixa atividade androgênica.\n\nFavorece o ganho de massa muscular magra e definição, com mínima retenção de líquidos e escassa conversão a estrógenos.\n\nCaixa com 50 comprimidos de 20 mg cada. Via oral.",
+            "imagens": [
+                "assets/produtos/bratva-oxandrolona-20mg-50comp/foto-1.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-stanozolol-10mg-100comp",
+            "nome": "Stanozolol 10mg 100 Comprimidos Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 250.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Stanozolol é um esteroide anabólico derivado do DHT, modificado para administração oral. Apresenta ação anabólica significativa com baixa atividade androgênica.\n\nFavorece o aumento de massa muscular magra e força sem causar retenção hídrica significativa. Não aromatiza a estrógenos.\n\nCaixa com 100 comprimidos de 10 mg cada. Via oral.",
+            "imagens": [
+                "assets/produtos/bratva-stanozolol-10mg-100comp/foto-1.png",
+                "assets/produtos/bratva-stanozolol-10mg-100comp/foto-2.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-hemogenin-50mg-25comp",
+            "nome": "Hemogenin (Oximetolona) 50mg 25 Comprimidos Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 240.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Oximetolona (Hemogenin) é um potente esteroide anabólico oral, conhecido por sua alta capacidade de promover ganhos significativos de massa muscular e força.\n\nProporciona aumento rápido de peso corporal, força e volume muscular, com aumento do apetite e recuperação.\n\nCaixa com 25 comprimidos de 50 mg cada. Via oral.",
+            "imagens": [
+                "assets/produtos/bratva-hemogenin-50mg-25comp/foto-1.png",
+                "assets/produtos/bratva-hemogenin-50mg-25comp/foto-2.png",
+                "assets/produtos/bratva-hemogenin-50mg-25comp/foto-3.png",
+                "assets/produtos/bratva-hemogenin-50mg-25comp/foto-4.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-metandrostenolona-10mg-100comp",
+            "nome": "Metandrostenolona (Dianabol) 10mg 100 Comprimidos Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 250.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Metandrostenolona, conhecida como Dianabol, é um clássico esteroide anabólico oral derivado da testosterona, com potente ação anabólica e moderada atividade androgênica.\n\nProporciona ganhos rápidos e significativos de massa muscular e força.\n\nCaixa com 100 comprimidos de 10 mg cada. Via oral.",
+            "imagens": [
+                "assets/produtos/bratva-metandrostenolona-10mg-100comp/foto-1.png",
+                "assets/produtos/bratva-metandrostenolona-10mg-100comp/foto-2.png",
+                "assets/produtos/bratva-metandrostenolona-10mg-100comp/foto-3.png",
+                "assets/produtos/bratva-metandrostenolona-10mg-100comp/foto-4.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-mesterolona-25mg-25comp",
+            "nome": "Mesterolona (Proviron) 25mg 25 Comprimidos Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 240.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "A Mesterolona é um esteroide androgênico oral derivado do DHT, com baixa atividade anabólica mas ação androgênica significativa.\n\nNão aromatiza a estrógenos. Utilizada para manter níveis de testosterona endógena e melhorar as características sexuais masculinas, sem retenção de líquidos.\n\nCaixa com 25 comprimidos de 25 mg cada. Via oral.",
+            "imagens": [
+                "assets/produtos/bratva-mesterolona-25mg-25comp/foto-1.png",
+                "assets/produtos/bratva-mesterolona-25mg-25comp/foto-2.png",
+                "assets/produtos/bratva-mesterolona-25mg-25comp/foto-3.png",
+                "assets/produtos/bratva-mesterolona-25mg-25comp/foto-4.png",
+                "assets/produtos/bratva-mesterolona-25mg-25comp/foto-5.png"
+            ],
+            "ativo": true
+        },
+        {
+            "id": "bratva-clembuterol-005mg-50comp",
+            "nome": "Clembuterol 0,05mg 50 Comprimidos Bratva",
+            "categoria": "Hormônios Bratva Labs",
+            "medida": "unidade",
+            "preco": 255.0,
+            "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
+            "descricao": "O Clembuterol é um agonista beta-2 adrenérgico, originalmente desenvolvido como broncodilatador, mas reconhecido por seus efeitos termogênicos e de queima de gordura.\n\nAtua estimulando o sistema nervoso simpático, aumentando a taxa metabólica basal e promovendo a lipólise. Possui efeito anticatabólico.\n\nCaixa com 50 comprimidos de 0,05 mg cada. Via oral.\n\nAdvertência para atletas: pode resultar em positivo em controle antidoping.",
+            "imagens": [
+                "assets/produtos/bratva-clembuterol-005mg-50comp/foto-1.png",
+                "assets/produtos/bratva-clembuterol-005mg-50comp/foto-2.png"
             ],
             "ativo": true
         }
