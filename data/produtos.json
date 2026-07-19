@@ -52,7 +52,7 @@
             "nome": "T.G 4 ampolas de 15mg",
             "categoria": "Tirzepatida",
             "medida": "caixa",
-            "preco": 999.0,
+            "preco": 950.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.\n\nAção: Retarda o esvaziamento gástrico, melhora a sensibilidade à insulina e reduz a ingestão calórica ao aumentar a sensação de saciedade.\n\nEficácia (Perda de Peso): Estudos (Surmount-1) mostram que a tirzepatida pode levar a uma redução significativa do peso corporal, com estudos indicando perdas de até 20% ou mais em 72 semanas, frequentemente mais expressiva com doses maiores como 12,5mg e 15mg.\n\nAdministração: É uma injeção subcutânea semanal (1 vez por semana), geralmente aplicada no abdômen, coxa ou parte posterior do braço.\n\nApresentação: A embalagem contém canetas injetáveis com 4 doses (uso mensal).\n\nEfeitos Colaterais: Os mais comuns incluem náuseas, vômitos, diarreia, constipação, dor abdominal e gases. Estes tendem a ocorrer mais no início do tratamento ou com o aumento da dose.\n\nRecomendação: A dose de 15mg geralmente não é a inicial; o tratamento começa com 2,5mg e aumenta progressivamente a cada 4 semanas para minimizar efeitos colaterais. O acompanhamento médico é indispensável.",
             "imagens": [
@@ -78,7 +78,7 @@
             "nome": "Gluconex 15 mg / 1 mL Tirzepatida",
             "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 999.0,
+            "preco": 1100.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Apresentação: caixa contendo 4 ampolas de vidro estéreis, cada ampola com 1 mL de solução injetável (concentração 15 mg/1 mL) para uso subcutâneo.\n\nPrincípio ativo: tirzepatida 15 mg por ampola.\n\nExcipientes: solução aquosa estéril com conservantes e excipientes (consultar bula do fabricante para lista completa).\n\nForma farmacêutica: solução estéril para injeção subcutânea em ampolas unitárias.\n\nIndicação: uso conforme indicação aprovada e protocolos institucionais. Administração subcutânea conforme regime terapêutico e titulação recomendados.",
             "imagens": [
@@ -118,7 +118,7 @@
             "nome": "Lipoless 15mg MD (60mg/2mL)",
             "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 999.0,
+            "preco": 950.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
@@ -147,7 +147,7 @@
             "nome": "Lipoland 4 ampolas de 15mg",
             "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 999.0,
+            "preco": 1100.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
@@ -173,14 +173,11 @@
             "nome": "Lipoless 4 Ampolas 15mg",
             "categoria": "Tirzepatida",
             "medida": "unidade",
-            "preco": 999.0,
+            "preco": 950.0,
             "resumo": "Crédito em até 12x + taxa. Frete sob consulta.",
             "descricao": "Mecanismo de Ação Dual (GIP/GLP-1): Diferente de medicações que atuam apenas no GLP-1 (como o Ozempic), a tirzepatida age no GLP-1 e no GIP (polipeptídeo insulinotrópico dependente de glicose). Essa combinação potencializa a saciedade, queima de gordura e o controle da glicemia, oferecendo resultados superiores na perda de peso.",
             "imagens": [
-                "assets/produtos/lipoless-4-ampolas-15mg/foto-1.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg/foto-2.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg/foto-3.jpg",
-                "assets/produtos/lipoless-4-ampolas-15mg/foto-4.jpg"
+                "assets/produtos/lipoless-4-ampolas-15mg/foto-1.jpg"
             ],
             "ativo": true
         },
