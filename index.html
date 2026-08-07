@@ -421,14 +421,6 @@ main { max-width: 1280px; margin: 0 auto; padding: 32px 24px 96px; }
   cursor: pointer;
 }
 .card-media-img { width: 100%; height: 100%; object-fit: cover; transition: transform var(--t-slow); }
-.card-cat {
-  position: absolute; top: 12px; left: 12px;
-  padding: 5px 12px; border-radius: 999px;
-  background: color-mix(in srgb, var(--surface) 85%, transparent);
-  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
-  font-size: 11px; font-weight: 600; letter-spacing: .02em;
-  color: var(--text); border: 1px solid var(--border);
-}
 .card-badges {
   position: absolute; top: 12px; right: 12px;
   display: flex; flex-direction: column; gap: 6px; align-items: flex-end;
@@ -565,7 +557,6 @@ main { max-width: 1280px; margin: 0 auto; padding: 32px 24px 96px; }
 .gallery-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
 
 .modal-body { padding: 36px 36px 28px; overflow-y: auto; display: flex; flex-direction: column; }
-.modal-cat { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; color: var(--text-3); margin-bottom: 10px; }
 .modal-title { font-size: 28px; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.02em; line-height: 1.15; }
 .modal-badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 18px; }
 .modal-desc { color: var(--text-2); font-size: 15px; margin: 0 0 24px; line-height: 1.6; }
@@ -940,7 +931,6 @@ function renderGrid() {
     return `
     <article class="card ${isOut ? "is-out" : ""}" data-id="${esc(p.id)}">
       <a class="card-media" href="?p=${esc(p.id)}" data-nav="${esc(p.id)}" aria-label="${esc(p.nome)}">
-        <span class="card-cat">${esc(p.categoria||"")}</span>
         ${badges ? `<div class="card-badges">${badges}</div>` : ""}
         ${imgOrPh(p.imagens?.[0], p.nome)}
       </a>
@@ -1196,7 +1186,6 @@ function renderModal(p) {
       </div>` : ""}
     </div>
     <div class="modal-body">
-      <p class="modal-cat">${esc(p.categoria||"")}</p>
       <h2 class="modal-title">${esc(p.nome)}</h2>
       ${badges ? `<div class="modal-badges">${badges}</div>` : ""}
       <p class="modal-desc">${(p.descricao||"").replace(/\n/g, "<br>")}</p>
